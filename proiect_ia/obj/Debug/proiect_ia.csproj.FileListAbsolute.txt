@@ -1,0 +1,9 @@
+c:\users\lia\documents\visual studio 2015\Projects\proiect_ia\proiect_ia\bin\Debug\proiect_ia.exe.config
+c:\users\lia\documents\visual studio 2015\Projects\proiect_ia\proiect_ia\bin\Debug\proiect_ia.exe
+c:\users\lia\documents\visual studio 2015\Projects\proiect_ia\proiect_ia\bin\Debug\proiect_ia.pdb
+c:\users\lia\documents\visual studio 2015\Projects\proiect_ia\proiect_ia\obj\Debug\proiect_ia.csprojResolveAssemblyReference.cache
+c:\users\lia\documents\visual studio 2015\Projects\proiect_ia\proiect_ia\obj\Debug\proiect_ia.Form1.resources
+c:\users\lia\documents\visual studio 2015\Projects\proiect_ia\proiect_ia\obj\Debug\proiect_ia.Properties.Resources.resources
+c:\users\lia\documents\visual studio 2015\Projects\proiect_ia\proiect_ia\obj\Debug\proiect_ia.csproj.GenerateResource.Cache
+c:\users\lia\documents\visual studio 2015\Projects\proiect_ia\proiect_ia\obj\Debug\proiect_ia.exe
+c:\users\lia\documents\visual studio 2015\Projects\proiect_ia\proiect_ia\obj\Debug\proiect_ia.pdb
